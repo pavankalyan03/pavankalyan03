@@ -10,7 +10,7 @@ Hi there! I'm Pavan Kalyan Kotha, a passionate data scientist and machine learni
 - 🌱 I’m constantly learning and exploring new techniques in NLP, Computer Vision, Android Development.
 - 🤔 I’m looking for help with Integrating NLP projects in Android apps.
 - 💬 Ask me about anything.
-- 📫 How to reach me: email me at pavankalyan.kotha.03@gmail.com
+- 📫 How to reach me: pavankalyan.kotha.03@gmail.com
 - ⚡ Fun fact: I'm a Gym Rat.
 
 ## 🛠️ Skills & Tools
