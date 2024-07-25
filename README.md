@@ -34,7 +34,7 @@ Hi there! I'm Pavan Kalyan Kotha, a passionate data scientist and machine learni
 
 ## 📊 My Stats (Optional)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[pavankalyan03]&show_icons=true&theme=dark)](https://github.com/pavankalyan03)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankalyan03&show_icons=true&theme=dark)](https://github.com/pavankalyan03)
 
 ## 🤝 Let's Connect!
 
