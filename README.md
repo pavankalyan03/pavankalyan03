@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=lines=Hello+World+!!%3C3;I'm+Pavan+Kalyan+!!!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello+World+!!%3C3;I'm+Pavan+Kalyan+!!!" alt="Title"></img>
 </div>
 
 ## 🙋‍♂️ About Me
