@@ -1,46 +1,41 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Pavan+Kalyan+Kotha+!!!"
-    alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello%20World!%20I'm%20Pavan%20Kalyan%20Kotha" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+## 🙋‍♂️ About Me
 
-Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- 👤: I'm a self taught app developer 😃
-- 😅: I'm providing advanced **Android Studio Libraries** & **Completed Project Tutorials** 🐧
-- 🌍: I'm located in **INDIA**
-- 😎: My motto is **_"This is workin' on something till nothing is left"_**
-- 👌: Fun fact: eat 👉: code 👉: music 👉: sleep 👉: repeat ~~ everything
+Hi there! I'm Pavan Kalyan Kotha, a passionate data scientist and machine learning engineer. I thrive on uncovering insights from data and building intelligent models that solve real-world problems.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+- 🔭 I’m currently working on AI and Ml projects.
+- 🌱 I’m constantly learning and exploring new techniques in NLP, Computer Vision, Android Development.
+- 🤔 I’m looking for help with Integrating NLP projects in Android apps.
+- 💬 Ask me about anything.
+- 📫 How to reach me: email me at pavankalyan.kotha.03@gmail.com
+- ⚡ Fun fact: I'm a Gym Rat.
 
-<br>
-
-<p  align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-</p>
-
-<p  align="center">
-
-  <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
-    &nbsp;
-  <img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
-</p>
-
-<p  align="center">
-  <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
-    &nbsp;
-  <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-    &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-</p>
+## 🛠️ Skills & Tools
 
 <p align="center">
-&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" height="25">
 </p>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" height="25"> 
+</p>
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-</div>
+## 📊 My Stats (Optional)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[pavankalyan03]&show_icons=true&theme=dark)](https://github.com/pavankalyan03)
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on exciting projects and learning from fellow data enthusiasts. Feel free to reach out!
