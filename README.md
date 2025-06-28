@@ -58,8 +58,8 @@
 <!-- GITHUB STATS -->
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyan03&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=pavankalyan03&theme=radical" alt="GitHub streak" width="48%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="40%" />
