@@ -62,7 +62,7 @@
   <img src="https://streak-stats.demolab.com?user=pavankalyan03&theme=radical" alt="GitHub streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankalyan03&layout=compact&theme=radical" width="40%" />
 </p>
 
 <!-- FOOTER -->
