@@ -1,41 +1,71 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello+World+!!;I'm+Pavan+Kalyan+%3C3" alt="Title"></img>
-</div>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm K Pavan Kalyan</h1>
+<h3 align="center">Data Engineer | Turning Raw Data into Real Insights</h3>
 
-## 🙋‍♂️ About Me
-
-Hi there! I'm Pavan Kalyan Kotha, a passionate data scientist and machine learning engineer. I thrive on uncovering insights from data and building intelligent models that solve real-world problems.
-
-- 🔭 I’m currently working on AI and Ml projects.
-- 🌱 I’m constantly learning and exploring new techniques in NLP, Computer Vision, Android Development.
-- 🤔 I’m looking for help with Integrating NLP projects in Android apps.
-- 💬 Ask me about anything.
-- 📫 How to reach me: pavankalyan.kotha.03@gmail.com
-- ⚡ Fun fact: I'm a Gym Rat.
-
-## 🛠️ Skills & Tools
-
+<!-- BIO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" height="25">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" height="25"> 
+  I'm a passionate data engineer focused on building scalable pipelines, transforming data into actionable intelligence, and automating workflows across cloud ecosystems. Always learning. Always evolving.
 </p>
 
-## 📊 My Stats (Optional)
+<!-- TECH SKILLS -->
+<h2>🚀 Tech Stack</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankalyan03&show_icons=true&theme=dark)](https://github.com/pavankalyan03)
+<!-- PROJECTS -->
+<h2>🧠 Featured Projects</h2>
 
-## 🤝 Let's Connect!
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/your-username/snowflake-etl-pipeline">
+        <img src="https://github.com/your-username/snowflake-etl-pipeline/raw/main/demo.gif" width="100%" alt="Snowflake ETL Pipeline"/>
+        <h4 align="center">Snowflake ETL Pipeline</h4>
+      </a>
+      <p align="center">End-to-end data engineering pipeline with Airflow, Snowflake, and dbt.</p>
+    </td>
+    <td>
+      <a href="https://github.com/your-username/skin-cancer-detection">
+        <img src="https://github.com/your-username/skin-cancer-detection/raw/main/preview.png" width="100%" alt="Skin Cancer Detection"/>
+        <h4 align="center">Skin Cancer Detection</h4>
+      </a>
+      <p align="center">CNN and transformer models trained on the ISIC dataset.</p>
+    </td>
+  </tr>
+</table>
 
-I'm always open to collaborating on exciting projects and learning from fellow data enthusiasts. Feel free to reach out!
+<!-- CONTACT -->
+<h2>📬 Let's Connect</h2>
+<p align="left">
+  <a href="mailto:pavankalyan.kotha.03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kpavankalyan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- GITHUB STATS -->
+<h2>📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub streak" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="40%" />
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
