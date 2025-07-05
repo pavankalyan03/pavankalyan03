@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
+
 <!-- PROJECTS -->
+<!--
 <h2>🧠 Featured Projects</h2>
 
 <table>
@@ -31,16 +33,15 @@
       </a>
       <p align="center">End-to-end data engineering pipeline with Airflow, Snowflake, and Databricks</p>
     </td>
-<!--     <td>
+     <td>
       <a href="https://github.com/your-username/skin-cancer-detection">
         <img src="https://github.com/your-username/skin-cancer-detection/raw/main/preview.png" width="100%" alt="Skin Cancer Detection"/>
         <h4 align="center">Skin Cancer Detection</h4>
       </a>
       <p align="center">CNN and transformer models trained on the ISIC dataset.</p>
-    </td> -->
+    </td> 
   </tr>
-</table>
-
+</table> -->
 <!-- CONTACT -->
 <h2>📬 Let's Connect</h2>
 <p align="left">
